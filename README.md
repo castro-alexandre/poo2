@@ -8,9 +8,13 @@ a opção de pagar em BOLETO.
 
 O segundo cliente também finaliza sua compra, porém utilizando o pagamento parcelado em 3 vezes.
 
-## Getting Started
+Para realizar uma compra, existem 4 categorias de produtos (Brinquedos, Eletrodomésticos, Eletrônicos e Vestuário). 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Os produtos específicos disponíveis para compra estão descritos em
+`src/produtos/tiposDeProdutos`.
+
+Em cada carrinho de compra, é possível adicionar e remover um produto específico, bem como apagar todos os produtos já incluídos.
+
 
 ## Folder Structure
 
